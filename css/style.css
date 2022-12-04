@@ -1,10 +1,10 @@
 body {
-background-color: brown;
+background-color: rgb(241, 227, 19);
 }
 h1 {
-    color: blue;
+    color: rgb(255, 153, 0);
 }
-h3 {
-    color: aqua;
+h2 {
+    color: black;
 }
     
